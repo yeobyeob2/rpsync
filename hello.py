@@ -1,6 +1,6 @@
 avg = (54 + 76) / 2
 print("Average:",avg)
 if avg >= 70:
-    print("pass")
+    print("you're a pass!")
 else:
-    print("none pass")
+    print("you're rejected!")
